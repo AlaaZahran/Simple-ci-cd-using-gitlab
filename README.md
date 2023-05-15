@@ -62,6 +62,7 @@ This stage deploys the Docker container to your EC2 instance on AWS.
 
 # Running the Pipeline
 Any changes will commit will run pipeline.
+ [repo link on gitlab](https://gitlab.com/AlaaZahran/simple-ci-cd-project.git)
 
 # Conclusion
 
